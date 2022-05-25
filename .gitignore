@@ -12,5 +12,5 @@ classes
 build
 bin
 classes
-manifest.mf
+*.manifest.mf
 *~
